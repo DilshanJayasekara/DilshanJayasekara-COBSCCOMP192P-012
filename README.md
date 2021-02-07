@@ -21,7 +21,7 @@ modes<h2>Launch screen</h2>
 
 <h2>Landscape mode</h2>
 
-<img src="https://user-images.githubusercontent.com/44752326/107142406-b9c81900-6954-11eb-926c-2755cfc7bb36.png" width="400" height = "600">
+<img src="https://user-images.githubusercontent.com/44752326/107142406-b9c81900-6954-11eb-926c-2755cfc7bb36.png" width="400" >
 <h2>Preview </h2>
-<img src="https://user-images.githubusercontent.com/44752326/107148942-f6f3d180-697b-11eb-8dc0-a8f6d64a6f91.gif" width="400">
+<img src="https://user-images.githubusercontent.com/44752326/107148942-f6f3d180-697b-11eb-8dc0-a8f6d64a6f91.gif" width="400" height = "600"
 <p>You can access video using this link : https://nibm-my.sharepoint.com/:f:/g/personal/cobsccomp192p-012_student_nibm_lk/EqTthVp56S1Pjey3j9hUngcBYzLLnMf7XGqzRou3DhoBCg?e=ZV8pSU</p>
