@@ -28,4 +28,4 @@ This WinWinCalculator is made for compatible with all the Mac devices and for an
 
 <img src="https://user-images.githubusercontent.com/44752326/107142406-b9c81900-6954-11eb-926c-2755cfc7bb36.png" width="400">
 <h2>Preview </h2>
-<img src="https://user-images.githubusercontent.com/44752326/107142439-f4ca4c80-6954-11eb-889d-e02f18298cf2.gif width="400">
+<img src="https://user-images.githubusercontent.com/44752326/107142439-f4ca4c80-6954-11eb-889d-e02f18298cf2.gif" width="400">
