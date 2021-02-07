@@ -9,12 +9,11 @@ Coventry index - 10421279
 
 
 <h2>Description</h2>
+WinWin calculator is a calculator that was designed for use in all the Mac devices with both landscape and portrait.
 
-This WinWinCalculator is made for compatible with all the Mac devices and for any orientation.
+modes<h2>Launch screen</h2>
 
-<h2>Launch screen</h2>
-
-<img src="https://user-images.githubusercontent.com/44752326/107142379-8e452e80-6954-11eb-9aa8-02f834f4d57e.png" width="250">
+<img src="https://user-images.githubusercontent.com/44752326/107148896-b7c58080-697b-11eb-8188-8482f07569e7.png" width="250">
 
 <h2>Potrait mode</h2>
 
@@ -24,5 +23,5 @@ This WinWinCalculator is made for compatible with all the Mac devices and for an
 
 <img src="https://user-images.githubusercontent.com/44752326/107142406-b9c81900-6954-11eb-926c-2755cfc7bb36.png" width="400">
 <h2>Preview </h2>
-<img src="https://user-images.githubusercontent.com/44752326/107142439-f4ca4c80-6954-11eb-889d-e02f18298cf2.gif" width="400">
+<img src="https://user-images.githubusercontent.com/44752326/107148942-f6f3d180-697b-11eb-8dc0-a8f6d64a6f91.gif" width="400">
 <p>You can access video using this link : https://nibm-my.sharepoint.com/:f:/g/personal/cobsccomp192p-012_student_nibm_lk/EqTthVp56S1Pjey3j9hUngcBYzLLnMf7XGqzRou3DhoBCg?e=ZV8pSU</p>
