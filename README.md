@@ -25,4 +25,4 @@ This WinWinCalculator is made for compatible with all the Mac devices and for an
 <img src="https://user-images.githubusercontent.com/44752326/107142406-b9c81900-6954-11eb-926c-2755cfc7bb36.png" width="400">
 <h2>Preview </h2>
 <img src="https://user-images.githubusercontent.com/44752326/107142439-f4ca4c80-6954-11eb-889d-e02f18298cf2.gif" width="400">
-<p>You can access video using this link : <a href = "https://nibm-my.sharepoint.com/:f:/g/personal/cobsccomp192p-012_student_nibm_lk/EqTthVp56S1Pjey3j9hUngcBYzLLnMf7XGqzRou3DhoBCg?e=ZV8pSU"></a></p>
+<p>You can access video using this link : https://nibm-my.sharepoint.com/:f:/g/personal/cobsccomp192p-012_student_nibm_lk/EqTthVp56S1Pjey3j9hUngcBYzLLnMf7XGqzRou3DhoBCg?e=ZV8pSU</p>
